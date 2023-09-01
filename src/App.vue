@@ -123,7 +123,7 @@ export default {
         {
           title: "Cool With You",
           artist: "NewJeans",
-          src: require("./assets/omg.mp3"),
+          src: require("./assets/cool.mp3"),
           coverImage: `url(${require("@/assets/supershy.jpg")})`,
           backgroundImage: `url(${require("@/assets/cool.jpg")})`,
         },
